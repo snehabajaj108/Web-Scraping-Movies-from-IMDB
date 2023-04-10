@@ -1,4 +1,4 @@
-# Web-Scraping-Movies-from-IMDB
+# Web Scraping Movies from IMDB
 
 View the Project on Jovian: https://jovian.com/snehabajaj108/web-scraping-imdb
 
